@@ -554,7 +554,7 @@ a.navbar-brand {
 }
 
 .border-bottom-row {
-	border-bottom: 3px solid #27ae60;
+	border-bottom: 5px solid #27ae60;
 }
 
 .home-trailmaps{
@@ -611,6 +611,12 @@ a.navbar-brand {
     font-size:1.875rem;
     color:#fff;
 }
+
+.feature_icon_lg i {
+	font-size:2.850rem;
+    color:#fff;
+}
+
 .features_area .single_features h2{
 	margin-bottom:10px;
     font-size:1.5025rem;
